@@ -1,0 +1,1 @@
+"""EcoPrune duplicate scanner."""
